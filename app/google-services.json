@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668634942598",
+    "project_id": "loginplusrecycler",
+    "storage_bucket": "loginplusrecycler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668634942598:android:5f9dfffa8817b81e2a9507",
+        "android_client_info": {
+          "package_name": "com.example.loginplusrecycler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe5MzJiJ2xEJoZYA_BoBmweOqfFzegCHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

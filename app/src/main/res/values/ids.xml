@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvSignIn" type="id" />
+    <item name="tvPlease" type="id" />
+    <item name="et1" type="id" />
+    <item name="et2" type="id" />
+    <item name="tvForgot" type="id" />
+    <item name="btnSignIn" type="id" />
+    <item name="tvOr" type="id" />
+    <item name="tvCont" type="id" />
+    <item name="btnGoogle" type="id" />
+    <item name="btnFacebook" type="id" />
+    <item name="tvDonthaveacc" type="id" />
+    <item name="cirProgressIndicator" type="id" />
+</resources>
